@@ -35,8 +35,8 @@ To run the portfolio website locally:
 
 ## Usage
 
-- Visit the [live site](https://your-username.github.io/portfolio-website/) to see the portfolio in action.
-- Modify the content in `index.html`, `style.css`, and `script.js` to personalize the website for your own use.
+- Visit the [live site](https://yogapriya-star.github.io/CVIP-Normal_Task-Portfolio_Website/) to see the portfolio in action.
+- Modify the content in `index.html`, `style.css`, and `script.js` to personalize the website for your use.
 
 ## Contributing
 
